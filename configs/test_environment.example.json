@@ -1,0 +1,5 @@
+{
+  "can_interface": "socketcan",
+  "channel": "vcan0",
+  "dbc_path": "dbc/example.dbc"
+}

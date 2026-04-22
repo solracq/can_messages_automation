@@ -89,3 +89,8 @@ pytest
 ./scripts/setup_vcan.sh
 RUN_VCAN_TESTS=1 pytest -m integration
 ```
+
+## AI Assistance Disclosure
+
+Parts of this project were developed with AI assistance (OpenAI Codex/LLM tools) for scaffolding, code suggestions, and documentation drafting.
+All generated content was reviewed, tested, and validated by the project maintainer before commit/merge.

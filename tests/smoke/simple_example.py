@@ -1,4 +1,4 @@
-# Executing a CAN loopback test
+# Executing a CAN loopback action
 
 import os
 import can
